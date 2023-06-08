@@ -1,0 +1,16 @@
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\bin\Debug\JPaushkina_Project.exe.config
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\bin\Debug\JPaushkina_Project.exe
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\bin\Debug\JPaushkina_Project.pdb
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.csproj.AssemblyReference.cache
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.csproj.SuggestedBindingRedirects.cache
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.Properties.Resources.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.csproj.GenerateResource.cache
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.csproj.CoreCompileInputs.cache
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.exe
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.pdb
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.LoginForm.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.TestListForm.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.RegistrationForm.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.QuestionsForm.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.ResultsScoreForm.resources
+D:\Julia\Программирование\!!!ИТОГ\JPaushkina_Project\JPaushkina_Project\obj\Debug\JPaushkina_Project.ProgressForm.resources
